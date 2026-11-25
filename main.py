@@ -1,6 +1,6 @@
 """Ponto de entrada da aplicação."""
 import tkinter as tk
-from interface import AplicacaoClinica
+from views.interface import AplicacaoClinica
 
 
 def main():

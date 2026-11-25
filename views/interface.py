@@ -2,7 +2,7 @@
 import tkinter as tk
 from tkinter import ttk, messagebox
 
-from filas import ESPECIALIDADES, CATEGORIAS, GerenciadorFilas
+from controllers.filas import ESPECIALIDADES, CATEGORIAS, GerenciadorFilas
 
 
 class AplicacaoClinica:
